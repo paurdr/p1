@@ -1,0 +1,6 @@
+git clone: Clona un repositorio remoto a tu máquina local.
+git status: Muestra el estado de los archivos en el repositorio.
+git add: Agrega cambios al área de preparación.
+git commit: Guarda los cambios en el historial del repositorio.
+git push: Sube los cambios locales al repositorio remoto.
+git checkout: Cambia entre ramas o revisiones específicas.
